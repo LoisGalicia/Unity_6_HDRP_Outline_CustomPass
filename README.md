@@ -1,7 +1,12 @@
 Its a simple outline shader with custompass to be used on Unity 6 HDRP
 The official one dont work well, is not even a proper outline shader, this is.
 If you like it and want to buy me a coffe or you know ;) you can help me here 
+-
+-
 https://ko-fi.com/loisdefazouro
+-
+-
+
 ![CardImage_Asset_Store_Easy-Outline-for-Unity-6-HDRP](https://github.com/user-attachments/assets/43a75315-2c62-4247-aaf8-9f65d31581e4)
 ![CoverImage_Asset_Store_Easy-Outline-for-Unity-6-HDRP](https://github.com/user-attachments/assets/15f2fec8-4ada-48ab-b888-06ae46962681)
 ![Easy-Outline-for-Unity-6-HDRP](https://github.com/user-attachments/assets/4176631d-9768-4f61-bba2-d849e690cdff)
